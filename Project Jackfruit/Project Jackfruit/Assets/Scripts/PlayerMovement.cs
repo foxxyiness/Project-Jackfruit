@@ -4,24 +4,36 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    public Vector3 jump;
     public float speed;
-    public float jumpPower;
+    public float jumpForce = 2.0f;
 
-    // Update is called once per frame
+    public bool isGrounded;
+    public Rigidbody rb;
+    void Start()
+    {
+        rb = GetComponent<Rigidbody>();
+        jump = new Vector3(0.0f, 2.0f, 0.0f);
+    }
+
+    void OnCollisionStay()
+    {
+        isGrounded = true;
+    }
+
     void Update()
     {
-        if(Input.GetKey(KeyCode.A))
+        float horizontalMovement = Input.GetAxis("Horizontal");
+        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
-            transform.Translate(Vector3.left * speed * Time.deltaTime);
+
+            rb.AddForce(jump * jumpForce, ForceMode.Impulse);
+            isGrounded = false;
         }
-        if (Input.GetKey(KeyCode.D))
-        {
-            transform.Translate(Vector3.right * speed * Time.deltaTime);
-        }
-        if (Input.GetKey(KeyCode.Space) || Input.GetKey(KeyCode.W))
-        {
-            transform.Translate(Vector3.up * jumpPower * Time.deltaTime, Space.World);
-        }
-       
+
+
+        rb.velocity = new Vector3(speed * Time.deltaTime * horizontalMovement, rb.velocity.y, rb.velocity.z); 
     }
+
+
 }
