@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    [Header("Player Speed")]
     public Vector3 jump, movement;
     public float speed;
     public float runSpeed;
     public float jumpForce = 2.0f;
 
+    [Header("Player Actions")]
     public bool isGrounded;
     public bool isSprinting;
     public Rigidbody rb;
