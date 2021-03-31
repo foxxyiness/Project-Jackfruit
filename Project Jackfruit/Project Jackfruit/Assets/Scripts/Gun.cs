@@ -81,12 +81,12 @@ public class Gun : MonoBehaviour
     {
         Instantiate(shootEffect, firePoint.position, firePoint.rotation);
         GameObject bulletGo = (GameObject)Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
-        Bullet bullet = bulletGo.GetComponent<Bullet>();
+       // Bullet bullet = bulletGo.GetComponent<Bullet>();
 
-        if (bullet != null)
+       /* if (bullet != null)
         {
             bullet.Seek(target);
-        }
+        }*/
     }
 
     void OnDrawGizmosSelected()
