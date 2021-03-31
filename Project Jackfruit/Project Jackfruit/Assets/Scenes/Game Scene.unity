@@ -338,7 +338,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e0b6a8afc9dd2a499fb85fd3e26d2c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 2439069467944476461, guid: 70ce85bcdd5f988499309f467106dd0f, type: 3}
+  target: {fileID: 1275459940}
   smoothSpeed: 0.125
   offset: {x: 0, y: 1, z: -10.5}
 --- !u!1001 &146023490
@@ -1030,6 +1030,11 @@ Transform:
 Transform:
   m_CorrespondingSourceObject: {fileID: 3793548446804116031, guid: 19701eb05b968cc47aed360e10d5d2be, type: 3}
   m_PrefabInstance: {fileID: 813964595}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1275459940 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2439069467944476461, guid: 70ce85bcdd5f988499309f467106dd0f, type: 3}
+  m_PrefabInstance: {fileID: 2439069469289617258}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1375875482
 PrefabInstance:
