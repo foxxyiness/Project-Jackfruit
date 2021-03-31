@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Bullet : MonoBehaviour
 {
@@ -39,7 +40,7 @@ public class Bullet : MonoBehaviour
         GameObject effectIns = (GameObject)Instantiate(impactEffect, transform.position, transform.rotation);
         Destroy(effectIns, 2f);
         Destroy(gameObject);
-        Destroy(target.gameObject);
+        SceneManager.LoadScene(2);
         //FindObjectOfType<AudioManager>().Play("Hit");
     }
 
