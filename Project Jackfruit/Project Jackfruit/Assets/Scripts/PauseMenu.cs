@@ -7,7 +7,7 @@ using TMPro;
 public class PauseMenu : MonoBehaviour
 {
     public GameObject ui;
-
+    public GameMaster gm;
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
