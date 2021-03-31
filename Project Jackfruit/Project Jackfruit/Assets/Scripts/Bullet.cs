@@ -30,29 +30,6 @@ public class Bullet : MonoBehaviour
             Destroy(gameObject);
         }
 
-
-        /*
-
-        Vector3 dir = target.position - transform.position;
-        float distanceThisFrame = speed * Time.deltaTime;
-
-        if (dir.magnitude <= distanceThisFrame)
-        {
-            HitTarget();
-            return;
-        }
-        transform.Translate(dir.normalized * distanceThisFrame, Space.World);
-    }
-    void HitTarget()
-    {
-        GameObject effectIns = (GameObject)Instantiate(impactEffect, transform.position, transform.rotation);
-        Destroy(effectIns, 2f);
-        Destroy(gameObject);
-        SceneManager.LoadScene(2);                                                                                                                                      
-        //FindObjectOfType<AudioManager>().Play("Hit");
-    }
-
-   */
     }
 
     void OnTriggerEnter(Collider other)
