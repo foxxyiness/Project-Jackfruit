@@ -12,4 +12,10 @@ public class TitleScreen : MonoBehaviour
     {
         Application.Quit();
     }
+
+    public void MainMenu()
+    {
+        SceneManager.LoadScene(0);
+    }
+    
 }
