@@ -949,3 +949,292 @@ Received Import Request.
 Start importing Assets/Materials/New Material.mat using Guid(f230d359d905bfd47888ad27baf8e3c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ee6e9c3a8d294b84f679a560f1be554') in 0.123130 seconds
   Import took 0.126090 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 489.782565 seconds.
+  path: Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1.prefab
+  artifactKey: Guid(02c04cfbc7f86f545bffebf8e9ed25b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1.prefab using Guid(02c04cfbc7f86f545bffebf8e9ed25b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '063af7e5bacb4c24c8fb60dd6a99c187') in 0.066857 seconds
+  Import took 0.069998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043642 seconds.
+  path: Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1.prefab
+  artifactKey: Guid(02c04cfbc7f86f545bffebf8e9ed25b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1.prefab using Guid(02c04cfbc7f86f545bffebf8e9ed25b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '063af7e5bacb4c24c8fb60dd6a99c187') in 0.025685 seconds
+  Import took 0.030682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.783872 seconds.
+  path: Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/M1911 Handgun_Black.prefab
+  artifactKey: Guid(b824f9176c1cc07469ac60a24d9888c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/M1911 Handgun_Black.prefab using Guid(b824f9176c1cc07469ac60a24d9888c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6082aa44ca1e54289550ccba888feea0') in 0.135952 seconds
+  Import took 0.140939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.601144 seconds.
+  path: Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1.prefab
+  artifactKey: Guid(02c04cfbc7f86f545bffebf8e9ed25b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1.prefab using Guid(02c04cfbc7f86f545bffebf8e9ed25b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b5c2b9b522d5b033c7765c01d667800') in 0.072223 seconds
+  Import took 0.075899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047264 seconds.
+  path: Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1.prefab
+  artifactKey: Guid(02c04cfbc7f86f545bffebf8e9ed25b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1.prefab using Guid(02c04cfbc7f86f545bffebf8e9ed25b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b5c2b9b522d5b033c7765c01d667800') in 0.022759 seconds
+  Import took 0.027083 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001577 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.821 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1100 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.1 MB.
+System memory in use after: 65.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1651.
+Total: 2.817700 ms (FindLiveObjects: 0.296600 ms CreateObjectMapping: 0.105700 ms MarkObjects: 2.390100 ms  DeleteObjects: 0.023400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 234.833105 seconds.
+  path: Assets/Materials/Nokobot/Modern Guns - Handgun/Effects
+  artifactKey: Guid(631af6a543f4bdd41bdb3b22798e6956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nokobot/Modern Guns - Handgun/Effects using Guid(631af6a543f4bdd41bdb3b22798e6956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b0c8ee50439ea02af686e6e50a92edf') in 0.012659 seconds
+  Import took 0.015838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.071896 seconds.
+  path: Assets/Materials/Nokobot/Modern Guns - Handgun/Effects/MuzzleFlash.mat
+  artifactKey: Guid(3b9b73bdf59096b4f8ca30c0a5d98a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nokobot/Modern Guns - Handgun/Effects/MuzzleFlash.mat using Guid(3b9b73bdf59096b4f8ca30c0a5d98a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b46e55de1b93420595dfba751d21ad4') in 0.177556 seconds
+  Import took 0.182305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Materials/Nokobot/Modern Guns - Handgun/Effects/MuzzleFlash.prefab
+  artifactKey: Guid(3dd9cf2e209c504448f1c4c6835675cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nokobot/Modern Guns - Handgun/Effects/MuzzleFlash.prefab using Guid(3dd9cf2e209c504448f1c4c6835675cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '675cd859404b9a2e5ba03274e455afdb') in 0.021614 seconds
+  Import took 0.029835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Materials/Nokobot/Modern Guns - Handgun/Effects/MuzzleFlash_SpriteSheet.png
+  artifactKey: Guid(6fc0c6421525c1844804ab1d17f1adda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nokobot/Modern Guns - Handgun/Effects/MuzzleFlash_SpriteSheet.png using Guid(6fc0c6421525c1844804ab1d17f1adda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba7dcd4716db50e559d57c84c63c9c30') in 0.095092 seconds
+  Import took 0.099165 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001002 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.924 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1100 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1655.
+Total: 2.594600 ms (FindLiveObjects: 0.244800 ms CreateObjectMapping: 0.073200 ms MarkObjects: 2.254600 ms  DeleteObjects: 0.020000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 476.407905 seconds.
+  path: Assets/Materials/Bullet Effect.prefab
+  artifactKey: Guid(49321310f225ee748bea37a56ef9b7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Bullet Effect.prefab using Guid(49321310f225ee748bea37a56ef9b7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ad455612bce450212dbb8d9f0d012c6') in 0.051915 seconds
+  Import took 0.055861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.669804 seconds.
+  path: Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/M1911 Handgun_Black.prefab
+  artifactKey: Guid(b824f9176c1cc07469ac60a24d9888c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/M1911 Handgun_Black.prefab using Guid(b824f9176c1cc07469ac60a24d9888c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7964cc84e4506b3470506b0e708ff06') in 0.078908 seconds
+  Import took 0.081625 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003001 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.732 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1100 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.9 MB.
+System memory in use after: 65.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1658.
+Total: 1.780500 ms (FindLiveObjects: 0.142400 ms CreateObjectMapping: 0.037400 ms MarkObjects: 1.587300 ms  DeleteObjects: 0.012500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.477631 seconds.
+  path: Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1.prefab
+  artifactKey: Guid(02c04cfbc7f86f545bffebf8e9ed25b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1.prefab using Guid(02c04cfbc7f86f545bffebf8e9ed25b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653de2dba1c0b8089a15307a2e8109e1') in 0.063093 seconds
+  Import took 0.065965 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001867 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.769 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1100 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.2 MB.
+System memory in use after: 65.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1661.
+Total: 3.258800 ms (FindLiveObjects: 0.191700 ms CreateObjectMapping: 0.074400 ms MarkObjects: 2.964100 ms  DeleteObjects: 0.027400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 109.793429 seconds.
+  path: Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1 1.prefab
+  artifactKey: Guid(87b236a718411d8488ebe8e7f3b669cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1 1.prefab using Guid(87b236a718411d8488ebe8e7f3b669cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e6be26b4d2ba6a1384cf47f63c4238') in 0.127207 seconds
+  Import took 0.131072 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003017 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.088 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1100 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.5 MB.
+System memory in use after: 65.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1664.
+Total: 3.245800 ms (FindLiveObjects: 0.307700 ms CreateObjectMapping: 0.073600 ms MarkObjects: 2.833800 ms  DeleteObjects: 0.028400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.821288 seconds.
+  path: Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1 1.prefab
+  artifactKey: Guid(87b236a718411d8488ebe8e7f3b669cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1 1.prefab using Guid(87b236a718411d8488ebe8e7f3b669cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5ad38d4aee0251568dc72f13938fe73') in 0.080466 seconds
+  Import took 0.083529 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003286 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.106 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1100 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.6 MB.
+System memory in use after: 65.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1667.
+Total: 4.304800 ms (FindLiveObjects: 0.300800 ms CreateObjectMapping: 0.118800 ms MarkObjects: 3.854600 ms  DeleteObjects: 0.027800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.830386 seconds.
+  path: Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1 1.prefab
+  artifactKey: Guid(87b236a718411d8488ebe8e7f3b669cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1 1.prefab using Guid(87b236a718411d8488ebe8e7f3b669cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3833c8638b82b01e73860b003806e471') in 0.116691 seconds
+  Import took 0.120714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.175593 seconds.
+  path: Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1 1.prefab
+  artifactKey: Guid(87b236a718411d8488ebe8e7f3b669cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Nokobot/Modern Guns - Handgun/_Prefabs/45ACP Bullet 1 1.prefab using Guid(87b236a718411d8488ebe8e7f3b669cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3833c8638b82b01e73860b003806e471') in 0.019120 seconds
+  Import took 0.021711 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005152 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.890 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1100 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.1 MB.
+System memory in use after: 65.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1670.
+Total: 2.879700 ms (FindLiveObjects: 0.235900 ms CreateObjectMapping: 0.069700 ms MarkObjects: 2.547700 ms  DeleteObjects: 0.023900 ms)
+

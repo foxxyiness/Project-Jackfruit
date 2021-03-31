@@ -19,6 +19,7 @@ public class Gun : MonoBehaviour
 
     [Header("Bullet References")]
     public GameObject bulletPrefab;
+    public GameObject shootEffect;
     public Transform firePoint;
 
     void Start()
@@ -78,7 +79,7 @@ public class Gun : MonoBehaviour
 
     void Shoot()
     {
-
+        Instantiate(shootEffect, firePoint.position, firePoint.rotation);
         GameObject bulletGo = (GameObject)Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
         Bullet bullet = bulletGo.GetComponent<Bullet>();
 
